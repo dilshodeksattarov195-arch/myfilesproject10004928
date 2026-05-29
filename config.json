@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configpncrypt",
+        "uuid": 33165440,
+        "checksum": "hvx7fl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
